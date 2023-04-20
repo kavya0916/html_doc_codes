@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <!-- HTML Headings are defined with the <h1> ...<h6> tags -->
+    <h1>Heading 1 with large text with default size</h1>
+    <h2>Heading 2 which is smaller than h1 tag</h2>
+    <h3>Heading 3 which is smaller than h2 tag</h3>
+    <h4>Heading 4 which is smaller than h3 tag</h4>
+    <h5>Heading 5 which is tiny and smaller than h4 tag</h5>
+    <h6>Heading 6 which is even tinier than h5 tag</h6>
+    
+</body>
+</html>
